@@ -1,0 +1,17 @@
+{
+  "name": "promisetest",
+  "version": "1.0.0",
+  "description": "Test promise issue with alexa-app npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.13.0",
+    "alexa-app": "^4.1.0",
+    "now-logs": "^0.0.7"
+  },
+  "author": "Lisa Seacat DeLuca lisa@laundrynfc.com @LisaSeacat",
+  "license": "ISC"
+}
